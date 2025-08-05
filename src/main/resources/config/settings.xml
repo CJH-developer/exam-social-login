@@ -4,12 +4,14 @@
 <properties>
 
     <!-- 카카오 REST API KEY -->
-    <entry key="REST_API_KEY">123</entry>
+    
 
     <!-- 카카오 로그인 후 Redirect 할 주소 -->
     <entry key="REDIRECT_URL">http://192.168.11.170:9393/loginProcess</entry>
 
     <entry key="KAUTH_TOKEN_URL_HOST">https://kauth.kakao.com</entry>
     <entry key="KAUTH_USER_URL_HOST">https://kapi.kakao.com</entry>
+
+
 
 </properties>
