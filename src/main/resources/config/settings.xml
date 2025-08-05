@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+
+    <!-- 카카오 REST API KEY -->
+    <entry key="REST_API_KEY">2f4316ca1ba11ece3fd248dc74f011ff</entry>
+
+    <!-- 카카오 로그인 후 Redirect 할 주소 -->
+    <entry key="REDIRECT_URL">http://192.168.11.170:9393/loginProcess</entry>
+
+    <entry key="KAUTH_TOKEN_URL_HOST">https://kauth.kakao.com</entry>
+    <entry key="KAUTH_USER_URL_HOST">https://kapi.kakao.com</entry>
+
+</properties>
